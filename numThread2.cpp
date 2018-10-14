@@ -25,3 +25,4 @@ int main (){
 	printf("Thread 1 respondeu: %d\n", ret1);
 	printf("Thread 2 respondeu: %d\n", ret2);
 }
+//Nesse código, é printado Thread1, Thread2, e o que elas responderam.
