@@ -21,3 +21,4 @@ int main(){
 		contador = pthread_create(&thread[i], NULL, *funcao, (void *) i);
 	}
 }
+//Neste código, são printadas 5 vezes "estou no main" e "ola thread X", 0 =< X < 5
