@@ -32,3 +32,4 @@ int main(){
 
 	return 0;
 }
+//Este código printa, Olá thread número X, 0 < X < 6, fora de ordem
